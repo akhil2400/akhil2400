@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Krishna</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
-</p>
 
 - 🌱 I'm currently learning **MERN Stack**
 - 💬 Ask me about **Javascript**
