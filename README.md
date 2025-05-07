@@ -27,76 +27,175 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        </a>
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
+        <a href="https://www.typescriptlang.org/">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        </a>
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="65" height="65" />
+        <a href="https://reactjs.org/">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        </a>
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="65" height="65" />
+        <a href="https://redux.js.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="65" height="65" class="animate-pulse" />
+        </a>
         <br>Redux
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="65" height="65" />
+        <a href="https://nodejs.org/">
+          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        </a>
         <br>Node.js
       </td>
-<td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
+      <td align="center" width="96">
+        <a href="https://www.postman.com/">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" class="animate-bounce" />
+        </a>
         <br>Postman
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="65" height="65" />
+        <a href="https://www.mongodb.com/">
+          <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+        </a>
         <br>MongoDB
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="65" height="65" />
+        <a href="https://www.postgresql.org/">
+          <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65" />
+        </a>
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65" />
+        <a href="https://aws.amazon.com/">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        </a>
         <br>AWS
       </td>
       <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="65" height="65" />
+        <a href="https://www.figma.com/">
+          <div class="tech-icon">
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="65" height="65" class="animate-pulse" />
+          </div>
+        </a>
         <br>Figma
       </td>
       <td align="center" width="96">
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="65" height="65" />
+        <a href="https://github.com/">
+          <div class="tech-icon">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+          </div>
+        </a>
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="65" height="65" />
+        <a href="https://git-scm.com/">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Git" width="65" height="65" />
+        </a>
         <br>Git
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="65" height="65" />
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <div class="tech-icon">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" class="animate-pulse" />
+          </div>
+        </a>
         <br>HTML5
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="65" height="65" />
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <div class="tech-icon">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" class="animate-pulse" />
+          </div>
+        </a>
         <br>CSS3
       </td>
       <td align="center" width="96">
-        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="65" height="65" />
+        <a href="https://getbootstrap.com/">
+          <div class="tech-icon">
+            <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="65" height="65" class="animate-pulse" />
+          </div>
+        </a>
         <br>Bootstrap
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="65" height="65" />
+        <a href="https://tailwindcss.com/">
+          <div class="tech-icon">
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="65" height="65" class="animate-bounce" />
+          </div>
+        </a>
         <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.nginx.com/">
+          <div class="tech-icon">
+            <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+          </div>
+        </a>
+        <br>Nginx
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/topics/dsa">
+          <div class="tech-icon">
+            <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/algorithm.svg" alt="DSA" width="65" height="65" class="animate-pulse" />
+          </div>
+        </a>
+        <br>DSA
+      </td>
+    </tr>
   </table>
 </div>
 
-<br>
+<!-- Add styling for animations -->
+<style>
+  .animate-pulse {
+    animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+  
+  @keyframes pulse {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+  }
+  
+  .animate-bounce {
+    animation: bounce 1s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(-25%);
+      animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+    }
+    50% {
+      transform: translateY(0);
+      animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    }
+  }
+  
+  .tech-icon img {
+    transition: all 0.3s ease;
+  }
+  
+  .tech-icon:hover img {
+    transform: scale(1.2);
+  }
+</style>
 
 <br>
 
