@@ -122,18 +122,18 @@
 ## <div align="center">🔗 Connect With Me</div>
 
 <div align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="akhilkrishna2400@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/akhil-krishna-81a45831b/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
+<!--   <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/your-instagram">
+  </a> -->
+<!--   <a href="https://www.instagram.com/your-instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  </a> -->
 </div>
 
 <br>
