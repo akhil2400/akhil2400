@@ -97,13 +97,6 @@
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="65" height="65" />
         <br>Tailwind
-<!--       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td> -->
-      
-    </tr>
   </table>
 </div>
 
