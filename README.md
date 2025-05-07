@@ -50,10 +50,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="65" height="65" />
         <br>Node.js
       </td>
-<!--       <td align="center" width="96">
-        <img src="https://i.imgur.com/VHx4O5b.png" alt="Express" width="65" height="65" />
-        <br>Express
-      </td> -->
+<td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
+        <br>Postman
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -102,10 +102,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="65" height="65" />
         <br>Docker
       </td> -->
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
-        <br>Postman
-      </td>
+      
     </tr>
   </table>
 </div>
