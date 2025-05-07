@@ -19,10 +19,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 <br>
 
 ## <div align="center">💻 Tech Stack & Tools</div>
@@ -120,12 +116,6 @@
   </a>
   <a href="https://www.linkedin.com/in/akhil-krishna-81a45831b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/your-instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
