@@ -18,11 +18,6 @@
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=tokyonight"/> -->
   </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 <br>
 
 ## <div align="center">💻 Tech Stack & Tools</div>
@@ -98,10 +93,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="65" height="65" />
         <br>Tailwind
       </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="65" height="65" />
         <br>Docker
-      </td>
+      </td> -->
       <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
         <br>Postman
