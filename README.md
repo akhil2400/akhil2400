@@ -19,7 +19,9 @@
   </a>
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 <br>
 
@@ -29,15 +31,15 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="65" height="65" />
         <br>React
       </td>
       <td align="center" width="96">
@@ -45,7 +47,7 @@
         <br>Redux
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="65" height="65" />
         <br>Node.js
       </td>
       <td align="center" width="96">
@@ -55,15 +57,15 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="65" height="65" />
         <br>MongoDB
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="65" height="65" />
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65" />
         <br>AWS
       </td>
       <td align="center" width="96">
@@ -71,7 +73,7 @@
         <br>Figma
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">
@@ -93,7 +95,7 @@
         <br>Bootstrap
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="65" height="65" />
         <br>Tailwind
       </td>
       <td align="center" width="96">
@@ -154,9 +156,8 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<!-- Snake animation -->
+![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=20&pause=1000" alt="Typing SVG">
