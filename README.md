@@ -18,6 +18,11 @@
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=tokyonight"/> -->
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
 <br>
 
 ## <div align="center">💻 Tech Stack & Tools</div>
@@ -46,7 +51,7 @@
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="65" height="65" />
+        <img src="https://i.imgur.com/VHx4O5b.png" alt="Express" width="65" height="65" />
         <br>Express
       </td>
     </tr>
@@ -68,7 +73,7 @@
         <br>Figma
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">
@@ -86,17 +91,17 @@
         <br>CSS3
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="65" height="65" />
+        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="65" height="65" />
         <br>Bootstrap
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="65" height="65" />
         <br>Tailwind
       </td>
-<!--       <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="65" height="65" />
         <br>Docker
-      </td> -->
+      </td>
       <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
         <br>Postman
@@ -107,7 +112,16 @@
 
 <br>
 
+## <div align="center">🚀 Projects</div>
 
+<div align="center">
+  <a href="https://github.com/your-github-username/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/your-github-username/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project2&theme=tokyonight" />
+  </a>
+</div>
 
 <br>
 
@@ -122,18 +136,18 @@
 ## <div align="center">🔗 Connect With Me</div>
 
 <div align="center">
-  <a href="akhilkrishna2400@gmail.com">
+  <a href="mailto:akhilkrishna2400@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/akhil-krishna-81a45831b/)">
+  <a href="https://www.linkedin.com/in/akhil-krishna-81a45831b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--   <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a> -->
-<!--   <a href="https://www.instagram.com/your-instagram">
+  </a>
+  <a href="https://www.instagram.com/your-instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a> -->
+  </a>
 </div>
 
 <br>
@@ -141,6 +155,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
+<!-- Snake animation -->
+![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=20&pause=1000" alt="Typing SVG">
