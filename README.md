@@ -102,17 +102,6 @@
 
 <br>
 
-## <div align="center">🚀 Projects</div>
-
-<div align="center">
-  <a href="https://github.com/your-github-username/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/your-github-username/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project2&theme=tokyonight" />
-  </a>
-</div>
-
 <br>
 
 ## <div align="center">📊 GitHub Activity Graph</div>
@@ -146,8 +135,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=20&pause=1000" alt="Typing SVG">
