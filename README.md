@@ -166,7 +166,9 @@
 <br>
 
 
-  ![](https://komarev.com/ghpvc/?username=akhil2400)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhil2400" alt="Profile views" />
+</p>
 
 
 
