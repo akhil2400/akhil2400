@@ -1,4 +1,5 @@
 # <div align="center">👨‍💻 AKHIL KRISHNA</div>
+![](https://komarev.com/ghpvc/?username=akhil2400)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Engineer;Web+Development+Enthusiast&center=true&width=500&height=50&duration=3000&pause=1000" alt="Typing SVG">
