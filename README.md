@@ -165,9 +165,9 @@
 
 <br>
 
-<div align="center">
+
   ![](https://komarev.com/ghpvc/?username=akhil2400)
-</div>
+
 
 
 <div align="center">
